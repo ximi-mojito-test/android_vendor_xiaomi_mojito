@@ -373,6 +373,7 @@ PRODUCT_PACKAGES += \
     libcirrusspkrprot \
     libcomprcapture \
     libexthwplugin \
+    libfastrpc_utf_stub \
     libhdmiedid \
     libhdmipassthru \
     libhfp \
