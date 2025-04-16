@@ -593,7 +593,6 @@ PRODUCT_PACKAGES += \
     misound_res_headphone \
     misound_res_spk \
     com.qualcomm.qti.improvetouch.service \
-    cnss-daemon \
     android.hardware.camera.provider@2.4-service_64 \
     vendor.qti.hardware.sensorscalibrate@1.0-service \
     init.qcom.sensors \
