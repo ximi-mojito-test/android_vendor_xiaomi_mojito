@@ -4338,7 +4338,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "com.fingerprints.extension@1.0",
+    name: "com.fingerprints.extension@1.0_vendor",
+    stem: "com.fingerprints.extension@1.0",
     owner: "xiaomi",
     strip: {
         none: true,
@@ -4494,7 +4495,7 @@ cc_prebuilt_library_shared {
                 "libhidlbase",
                 "libhidltransport",
                 "android.hardware.biometrics.fingerprint@2.1",
-                "com.fingerprints.extension@1.0",
+                "com.fingerprints.extension@1.0_vendor",
                 "libQSEEComAPI",
                 "libion",
                 "libc++",
