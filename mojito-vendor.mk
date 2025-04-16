@@ -364,7 +364,6 @@ PRODUCT_PACKAGES += \
     libacdbloader \
     libacdbrtac \
     libadiertac \
-    libadsprpc \
     libaudcal \
     libaudio_log_utils \
     libaudioalsa \
@@ -486,7 +485,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.sensorscalibrate@1.0-impl \
     libFaceGrade \
     libHalSuperSensorServer \
-    libI420colorconvert \
     libMegviiFacepp-0.5.2 \
     libSNPE \
     libSuperSensor \
@@ -536,8 +534,6 @@ PRODUCT_PACKAGES += \
     libhbtpclient \
     libhbtpdsp \
     libhbtpfrmwk \
-    libhta_hexagon_runtime \
-    libhvx_interface \
     libmegface \
     libmiStereoFactoryRemapBasicLib \
     libmiStereoFactoryRemapLib \
@@ -587,7 +583,6 @@ PRODUCT_PACKAGES += \
     capi_v2_aptX_Classic \
     capi_v2_aptX_HD \
     libSuperSensor_skel \
-    libVC1DecDsp_skel \
     libVDHexagonSuperPhoto_skel \
     libmialgo_rfs_cdsp_skel \
     libsnpe_dsp_v65_domains_v2_skel \
