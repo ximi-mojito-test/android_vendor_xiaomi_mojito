@@ -478,7 +478,6 @@ PRODUCT_PACKAGES += \
     com.xiaomi.node.misegment \
     libdepthmapwrapper \
     libmmcamera_cac3 \
-    com.fingerprints.extension@1.0_vendor \
     camera.qcom \
     com.qti.chi.override \
     consumerir.sm6150 \
